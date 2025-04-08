@@ -17,3 +17,16 @@ Le site permet de visualiser des montres, d'ajouter au panier, de voir le total,
 - Gestion des données avec fichier CSV
 
 
+## Page d'Accueil:
+![image](https://github.com/user-attachments/assets/22817306-6a91-4cbb-8fc2-ddcd6c8f9908)
+
+## Inscription:
+![image](https://github.com/user-attachments/assets/a10e7ab7-eacd-4ec9-a5ab-ff86039779e4)
+
+## Panier:
+![image](https://github.com/user-attachments/assets/cb7e3e1a-9800-4c5d-a720-150065407829)
+
+## Interface Paiement: 
+![image](https://github.com/user-attachments/assets/f1b8b6f3-99e4-44a5-824b-f3272fcd494b)
+
+
